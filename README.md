@@ -4,3 +4,4 @@ My daily Git exercises for the CareerByteCode 30-day challenge.
 
 ## Progress
 - Day 01: Git installation and first repository
+- Day 02: The staging area and selective commits
