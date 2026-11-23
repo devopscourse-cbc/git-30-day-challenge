@@ -1,7 +1,7 @@
 # Development Notes
 
 ## Architecture Decisions
-- Using Python for the application layer
+- Using Python 3.12 for the application layer
 - YAML for configuration files
 
 ## Known Issues
